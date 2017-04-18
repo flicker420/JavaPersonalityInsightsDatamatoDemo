@@ -6,6 +6,7 @@ declared-services:
 applications:
 - services:
   - personality-insights-service
-  name: personality-insights-java
+  name: JavaPersonalityInsightsDatamatoDemo
   path: webApp.war
   memory: 512M
+  host: JavaPersonalityInsightsDatamatoDemo
